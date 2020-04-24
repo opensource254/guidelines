@@ -7,3 +7,9 @@ A set of guidelines for this org. Looking for general contributing guidlines? Th
 2. Request on the general chanel to be added to this org. (Please be sure to leave your username).
 
 Just like that. You are in.
+
+## Who are we?
+
+## Contributing guidlines
+
+## Code of conduct
